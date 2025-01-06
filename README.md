@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @layn1asol
+- 👀 I’m interested in frontend web development!
+- 🌱 I’m currently learning HTML, CSS, Javascript, Typescript, React and SASS
+- 🎓 Software Engineering student of the Igor Sikorsky Kyiv Polytechnic University
+- 📫 My email: burakovstanislav64@gmail.com
+- 😄 Pronouns: he/him
