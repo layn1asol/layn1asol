@@ -5,7 +5,7 @@ About me:
 - 👀 I’m interested in frontend web development!
 - 🌱 I’m currently learning React, JavaScript, TypeScript, SASS, Bootstrap, Node.JS and also have a little knowledge in PHP!
 - 🎓 I'm a CS major student at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
-- ‼️  My portfolio: https://layn1asol.github.io/portfolioWebsite/
+- ‼️  My portfolio: https://layn1asol.github.io/portfolio/
 - 📫 My email: burakovstanislav64@gmail.com
 - 😄 Age: 18 y.o. Pronouns: he/him.
 
