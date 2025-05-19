@@ -7,7 +7,7 @@ About me:
 - 🎓 I'm a Software Engineering major student at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
 - ‼️ My portfolio: https://layn1asol.github.io/portfolioWebsite/
 - 📫 My email: burakovstanislav64@gmail.com
-- 😄 Age: 18 y.o. Pronouns: he/him.
+- 😄 Age: 18 y.o.
 
 
-Please check out my pinned projects! It would make me very happy if you took a look! :)
+Please check out my pinned projects! :)
